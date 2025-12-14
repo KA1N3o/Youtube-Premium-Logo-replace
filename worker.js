@@ -16,7 +16,7 @@
             return;
         } else if (details.reason == "install") {
             api.tabs.create({
-                url: "https://nisargkavi.in/?ref=extension",
+                url: "https://rainaku.id.vn",
             });
         }
     });
